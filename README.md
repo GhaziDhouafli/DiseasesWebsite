@@ -14,3 +14,4 @@ SVM or Support Vector Machine is a linear model for classification and regressio
  Based on the data that we have, i created input texts that covers the whole features that i have. After simply giving all the inputs, you can click on the "Parkinson's Test Result" button and the result will be printed wether this person has the Parkinsons disease or not.
  
  
+![Capture](https://user-images.githubusercontent.com/103439643/190239044-c7fff5c5-970a-41ff-9512-c8b02ab7aa50.PNG)
