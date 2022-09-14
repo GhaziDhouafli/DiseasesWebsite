@@ -10,7 +10,7 @@ SVM or Support Vector Machine is a linear model for classification and regressio
  I started by spliting the data into train and test data. I used the train data to train the model based on the SVM linear algorithm and i ended up with an 87% accuracy
  which is pretty good result. At the end, i saved the model using the pickle library.
  
- ## **3- Building The Website using Stramlit:**
+ ## **3- Building The Website using Streamlit:**
  Based on the data that we have, i created input texts that covers the whole features that i have. After simply giving all the inputs, you can click on the "Parkinson's Test Result" button and the result will be printed wether this person has the Parkinsons disease or not.
  
  
