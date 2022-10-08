@@ -24,5 +24,6 @@ For this part, I used the  Logistic Regression to make predictions. Logistic Reg
  ## **4- Building The Website using Streamlit:**
  Based on the data that we have, i created input texts that covers the whole features that i have. After simply giving all the inputs, you can click on any button and the result will be printed wether this person has a disease or not.
  
- 
-![Capture](https://user-images.githubusercontent.com/103439643/190239044-c7fff5c5-970a-41ff-9512-c8b02ab7aa50.PNG)
+ ![Capture](https://user-images.githubusercontent.com/103439643/194719738-5a0e15a1-a3e7-428e-9947-a44cb2006c12.PNG)
+
+
