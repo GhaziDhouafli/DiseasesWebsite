@@ -21,18 +21,23 @@ In this project, I was able to put my skills in both ML and Streamlit to create 
     - parkinsons_model.sav      <- Model for parkinsons prediction.
        
 ## **2- Diabetes_Disease_Prediction:**
-For this part, I used SVM or Support Vector Machine algorithm to make predictions. SVM is a linear model for classification and regression problems. It can solve linear and non-linear problems and work well for many practical problems. The idea of SVM is simple: The algorithm creates a line or a hyperplane which separates the data into classes.
+In this part, I employed the SVM (Support Vector Machine) algorithm to make predictions. SVM is a versatile algorithm used for both classification and regression problems. It is capable of solving linear and non-linear problems and has proven effective for various practical applications. The underlying concept of SVM is straightforward: the algorithm constructs a line or hyperplane that separates the data into different classes.
 
- I started by spliting the data into train and test data. I used the train data to train the model based on the SVM linear algorithm and i ended up with a 78,33% accuracy for the training data-set and 77.27% for the testing data-set. At the end, i saved the model using the pickle library.
+To begin, I divided the data into training and testing sets. I utilized the training data to train the model using the SVM linear algorithm. The training process resulted in an accuracy of 78.33% for the training dataset and 77.27% for the testing dataset. Finally, I saved the trained model using the pickle library for future use.
  
 ## **3- Heart_Disease_Prediction:**
-For this part, I used the  Logistic Regression to make predictions. Logistic Regression is an example of supervised learning. It is used to calculate or predict the probability of a binary(yes/no) event occurring.
 
- I started by spliting the data into train and test data. I used the train data to train the model based on the Logistic Regnression algorithm and i ended up with a 85.12% accuracy for the training data-set and 81.96% for the testing data-set. At the end, i saved the model using the pickle library.
+In this particular section, I utilized Logistic Regression for prediction purposes. Logistic Regression is a type of supervised learning algorithm commonly employed to estimate or predict the probability of a binary event occurring, such as a yes/no outcome.
+
+To begin, I divided the available data into two sets: the training data and the testing data. Subsequently, I employed the training data to train the model using the Logistic Regression algorithm. As a result, I achieved an accuracy of 85.12% for the training dataset and 81.96% for the testing dataset. Finally, I saved the trained model using the pickle library for future reference.
  
  ## **4-Parkinsons_Disease_Prediction:**
- For this part, I used SVM or Support Vector Machine algorithm to make predictions.
- I started by spliting the data into train and test data. I used the train data to train the model based on the SVM linear algorithm and i ended up with a 87.17% accuracy for the training data-set and 88.2% for the testing data-set. At the end, i saved the model using the pickle library.
+
+In this particular analysis, I employed the Support Vector Machine (SVM) algorithm to make predictions.
+
+To begin, I divided the available data into two sets: the training data and the testing data. Subsequently, I utilized the training data to train the model using the SVM linear algorithm. The training process resulted in an accuracy of 87.17% for the training dataset and 88.2% for the testing dataset.
+
+Finally, to ensure the model's preservation for future use, I saved it using the pickle library.
  
   
  ## **5- Building The Website using Streamlit:**
