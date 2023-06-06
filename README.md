@@ -1,6 +1,12 @@
 # Multiple_Disease_Prediction_Website
 In this project, I was able to put my skills in both ML and Streamlit to create a website that can tell if the patient has a Parkinson, Diabetes and heart disease.
-- Folder
+
+
+
+## **1- Project Organization:**
+- Diseases_Prediction_Website
+  - README.md                     <- The top-level README for developers using this project.
+  - streamlit-code.py             <- Code for the Website.
   - Subfolder
     - File 1
     - File 2
@@ -10,11 +16,8 @@ In this project, I was able to put my skills in both ML and Streamlit to create 
   - Subfolder
     - File 4
 
-
-## **1- Project Organization:**
-
-├── README.md                     <- The top-level README for developers using this project.
-├── streamlit-code.py             <- Code for the Website.
+├── 
+├── 
 │
 ├── datasets                      <- Datasets folder.
 │   ├── diabetes.csv              <- Dataset for diabetes disease.
