@@ -49,9 +49,9 @@ Finally, to ensure the model's preservation for future use, I saved it using the
   ## **6- Usage:**
   The instructions to run the Website on your local system are as follows:
   1. Download or clone this repository into your local system
-  2. Run the following command to install necessary libraries for the website to run
+  2. Run the following command to install necessary libraries for the website to run<br>
       ```pip install -r requirements.txt```
-  4. Run the streamlit app with
+  4. Run the streamlit app with<br>
       ```streamlit run streamlit-code.py```
     
   
