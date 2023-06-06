@@ -45,5 +45,15 @@ Finally, to ensure the model's preservation for future use, I saved it using the
  Based on the data that we have, i created input texts that covers the whole features that i have. After simply giving all the inputs, you can click on any button and the result will be printed wether this person has a disease or not.
  
  ![Capture](https://user-images.githubusercontent.com/103439643/194719738-5a0e15a1-a3e7-428e-9947-a44cb2006c12.PNG)
+ 
+  ## **6- Usage:**
+  The instructions to run the Website on your local system are as follows:
+  1. Download or clone this repository into your local system
+  2. Run the following command to install necessary libraries for the website to run
+      '''pip install -r requirements.txt'''
+  4. Run the streamlit app with
+      '''streamlit run streamlit-code.py'''
+    
+  
 
 
