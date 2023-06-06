@@ -7,6 +7,7 @@ In this project, I was able to put my skills in both ML and Streamlit to create 
 - Diseases_Prediction_Website
   - README.md                     <- The top-level README for developers using this project.
   - streamlit-code.py             <- Code for the Website.
+  - requirements.txt              <- Libraries used in the project.
   - datasets                      <- Datasets folder.
     - diabetes.csv              <- Dataset for diabetes disease.
     - heart.csv                 <- Dataset for heart disease.
