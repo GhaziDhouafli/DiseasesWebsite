@@ -1,6 +1,26 @@
 # Multiple_Disease_Prediction_Website
-In this project, I was able to put my skills in both ML and Streamlit to create a website that can tell if the patient has a Parkinson, Diabetes and heart disease .First of all i begin by getting the data from kaggle (It's uploaded in the repository) and trying to make models to make the predictions.
+In this project, I was able to put my skills in both ML and Streamlit to create a website that can tell if the patient has a Parkinson, Diabetes and heart disease.
 
+## **1- Project Organization:**
+
+├── README.md                     <- The top-level README for developers using this project.
+├── streamlit-code.py             <- Code for the Website.
+│
+├── datasets                      <- Datasets folder.
+│   ├── diabetes.csv              <- Dataset for diabetes disease.
+│   ├── heart.csv                 <- Dataset for heart disease.
+│   └── parkinsons.csv            <- Dataset for parkinsons disease.
+│
+├── disease prediction code       <- Folder for the Jupyter Notebooks.
+    ├── Parkinsons.ipynb          <- Parkinsons prediction notebook.
+    ├── diabetes.ipynb            <- diabetes prediction notebook.
+    ├── heart.ipynb               <- heart disease prediction notebook.
+│
+├── saved models                  <- Folder for the saved models.
+    ├── diabetes_model.sav        <- Model for diabetes prediction.
+    ├── heart_disease_model.sav   <- Model for heart disease prediction.
+    ├── parkinsons_model.sav      <- Model for parkinsons prediction.
+       
 ## **1- Diabetes_Disease_Prediction:**
 For this part, I used SVM or Support Vector Machine algorithm to make predictions. SVM is a linear model for classification and regression problems. It can solve linear and non-linear problems and work well for many practical problems. The idea of SVM is simple: The algorithm creates a line or a hyperplane which separates the data into classes.
 
