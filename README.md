@@ -1,5 +1,15 @@
 # Multiple_Disease_Prediction_Website
 In this project, I was able to put my skills in both ML and Streamlit to create a website that can tell if the patient has a Parkinson, Diabetes and heart disease.
+- Folder
+  - Subfolder
+    - File 1
+    - File 2
+  - Subfolder
+    - File 3
+- Folder
+  - Subfolder
+    - File 4
+
 
 ## **1- Project Organization:**
 
